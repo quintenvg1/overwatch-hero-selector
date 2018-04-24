@@ -7,7 +7,7 @@ this program is free, i do not own any licences / copyrights.
 
 you are free to distribute this program
 
-build in Visual studio entreprise and committed to GitHub.
+built in Visual studio entreprise and committed to GitHub.
 in this version, brigitte is added to the generator.
 
 
