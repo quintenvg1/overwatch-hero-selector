@@ -17,3 +17,22 @@ F:\school shit\programming principles\overwatch random hero selector 2.0\overwat
 F:\school shit\programming principles\overwatch random hero selector 2.0\overwatch random hero selector 2.0\bin\Debug\overwatch random hero selector 2.0.application
 F:\school shit\programming principles\overwatch random hero selector 2.0\overwatch random hero selector 2.0\obj\Debug\overwatch random hero selector 2.0.exe.manifest
 F:\school shit\programming principles\overwatch random hero selector 2.0\overwatch random hero selector 2.0\obj\Debug\overwatch random hero selector 2.0.application
+H:\git\overwatch random hero selector 2.0\overwatch random hero selector 2.0\bin\Debug\overwatch random hero selector 2.0.exe.config
+H:\git\overwatch random hero selector 2.0\overwatch random hero selector 2.0\bin\Debug\overwatch random hero selector 2.0.exe.manifest
+H:\git\overwatch random hero selector 2.0\overwatch random hero selector 2.0\bin\Debug\overwatch random hero selector 2.0.application
+H:\git\overwatch random hero selector 2.0\overwatch random hero selector 2.0\bin\Debug\overwatch random hero selector 2.0.exe
+H:\git\overwatch random hero selector 2.0\overwatch random hero selector 2.0\bin\Debug\overwatch random hero selector 2.0.pdb
+H:\git\overwatch random hero selector 2.0\overwatch random hero selector 2.0\obj\Debug\overwatch random hero selector 2.0.csprojResolveAssemblyReference.cache
+H:\git\overwatch random hero selector 2.0\overwatch random hero selector 2.0\obj\Debug\MainWindow.g.cs
+H:\git\overwatch random hero selector 2.0\overwatch random hero selector 2.0\obj\Debug\App.g.cs
+H:\git\overwatch random hero selector 2.0\overwatch random hero selector 2.0\obj\Debug\overwatch random hero selector 2.0_MarkupCompile.cache
+H:\git\overwatch random hero selector 2.0\overwatch random hero selector 2.0\obj\Debug\overwatch random hero selector 2.0_MarkupCompile.lref
+H:\git\overwatch random hero selector 2.0\overwatch random hero selector 2.0\obj\Debug\MainWindow.baml
+H:\git\overwatch random hero selector 2.0\overwatch random hero selector 2.0\obj\Debug\overwatch random hero selector 2.0.g.resources
+H:\git\overwatch random hero selector 2.0\overwatch random hero selector 2.0\obj\Debug\overwatch_random_hero_selector_2._0.Properties.Resources.resources
+H:\git\overwatch random hero selector 2.0\overwatch random hero selector 2.0\obj\Debug\overwatch random hero selector 2.0.csproj.GenerateResource.Cache
+H:\git\overwatch random hero selector 2.0\overwatch random hero selector 2.0\obj\Debug\overwatch random hero selector 2.0.csproj.CoreCompileInputs.cache
+H:\git\overwatch random hero selector 2.0\overwatch random hero selector 2.0\obj\Debug\overwatch random hero selector 2.0.exe.manifest
+H:\git\overwatch random hero selector 2.0\overwatch random hero selector 2.0\obj\Debug\overwatch random hero selector 2.0.application
+H:\git\overwatch random hero selector 2.0\overwatch random hero selector 2.0\obj\Debug\overwatch random hero selector 2.0.exe
+H:\git\overwatch random hero selector 2.0\overwatch random hero selector 2.0\obj\Debug\overwatch random hero selector 2.0.pdb
