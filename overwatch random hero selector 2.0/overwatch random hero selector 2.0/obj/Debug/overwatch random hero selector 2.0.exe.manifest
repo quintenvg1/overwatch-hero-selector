@@ -42,14 +42,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="overwatch random hero selector 2.0.exe" size="48064">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="overwatch random hero selector 2.0.exe" size="48576">
       <assemblyIdentity name="overwatch random hero selector 2.0" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>11OEDorRIz9TBLM90FE/j2TcgEa9aKap/4PM4NvcVi8=</dsig:DigestValue>
+        <dsig:DigestValue>3wbAcWkztab83VG+57Pea9Fi1jpLKKwMrP+DXiMdGHo=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

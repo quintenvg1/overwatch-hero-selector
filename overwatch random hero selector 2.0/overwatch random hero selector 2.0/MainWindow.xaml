@@ -1,11 +1,11 @@
-﻿<Window x:Class="overwatch_random_hero_selector_2._0.MainWindow"
+﻿<Window x:Name="hero_generator" x:Class="overwatch_random_hero_selector_2._0.MainWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:overwatch_random_hero_selector_2._0"
         mc:Ignorable="d"
-        Title="MainWindow" Height="350" Width="525">
+        Title="random hero picker" Height="350" Width="525">
     <Grid RenderTransformOrigin="0.441,0.473" Background="Gray">
         <Image Margin="309,0,0,209" Source="overwatch logo.jpeg" Stretch="Fill"/>
         <Button x:Name="_1hero" Content="1 hero" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="96" Click="_1hero_Click"/>
