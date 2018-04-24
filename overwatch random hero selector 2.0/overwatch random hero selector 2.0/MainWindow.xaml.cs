@@ -158,10 +158,12 @@ namespace overwatch_random_hero_selector_2._0
         private void _1hero_Click(object sender, RoutedEventArgs e)
         {
             //functie om een hero te kiezen, returns a number between 1 and 27 inc 1 and 27
+            // funtion to choose a hero
             int hero1 = randomizer();
             //stuurt het cijfer van de hero door naar de functie en decodeerd deze door if statements.
+            // sends the number of the hero to the decoder function which return a name based on this number.
            herolabel1.Content = Convert.ToString(Decoder(hero1));
-            
+            // works for a single hero
             
         }
 
@@ -170,7 +172,7 @@ namespace overwatch_random_hero_selector_2._0
             int hero1 = randomizer();
             int hero2 = randomizer();
             int hero3 = randomizer();
-
+            // code underneath solves the 'duplicates' problem
             //ervoor zorgen dat er geen dubbels in de selectie komen, door de dubbels opnieuw te laten randomizen kan het soms even duren voor de selectie gemaakt is.
             while (hero1 == hero2)
             {
@@ -229,6 +231,7 @@ namespace overwatch_random_hero_selector_2._0
 
         private void close_Click(object sender, RoutedEventArgs e)
         {
+            // makes the close button work
             Environment.Exit(0);
         }
     }
