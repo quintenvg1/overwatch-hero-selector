@@ -30,72 +30,74 @@ namespace overwatch_random_hero_selector_2._0
             int hero;
             Random B = new Random();
             // set to 1, 27 after new hero update alle cijfers excluding 26
-            hero = B.Next(1, 27);
+            hero = B.Next(1, 29);
             return hero;
           
         }
 
         //update brigitte added 24/4/18
+        //add ashe
+        //add wrecking ball 10/1/2019
         public string Decoder(int A)
         {
             
             if (A == 1)
             {
                 
-                return "doomfist";
+                return "Doomfist";
             }
             if (A == 2)
             {
                 
-                return "genji";
+                return "Genji";
             }
             if (A == 3)
             {
-                return "mccree";
+                return "Mccree";
             }
             if (A == 4)
             {
-                return "pharah";
+                return "Pharah";
             }
             if (A == 5)
             {
-                return "reaper";
+                return "Reaper";
             }
             if (A == 6)
             {
-                return "soldier 76";
+                return "Soldier 76";
             }
             if (A == 7)
             {
-                return "sombra";
+                return "Sombra";
             }
             if (A == 8)
             {
-                return "tracer";
+                return "Tracer";
             }
             if (A == 9)
             {
-                return "bastion";
+                return "Bastion";
             }
             if (A == 10)
             {
-                return "hanzo";
+                return "Hanzo";
             }
             if (A == 11)
             {
-                return "junkrat";
+                return "Junkrat";
             }
             if (A == 12)
             {
-                return "mei";
+                return "Mei";
             }
             if (A == 13)
             {
-                return "torbjörn";
+                return "Torbjörn";
             }
             if (A == 14)
             {
-                return "widowmaker";
+                return "Widowmaker";
             }
             if (A == 15)
             {
@@ -103,19 +105,19 @@ namespace overwatch_random_hero_selector_2._0
             }
             if (A == 16)
             {
-                return "orisa";
+                return "Orisa";
             }
             if (A == 17)
             {
-                return "reinhardt";
+                return "Reinhardt";
             }
             if (A == 17)
             {
-                return "roadhog";
+                return "Roadhog";
             }
             if (A == 18)
             {
-                return "winston";
+                return "Winston";
             }
             if (A == 19)
             {
@@ -123,7 +125,7 @@ namespace overwatch_random_hero_selector_2._0
             }
             if (A == 20)
             {
-                return "ana";
+                return "Ana";
             }
             if (A == 21)
             {
@@ -131,11 +133,11 @@ namespace overwatch_random_hero_selector_2._0
             }
             if (A == 22)
             {
-                return "mercy";
+                return "Mercy";
             }
             if (A == 23)
             {
-                return "moira";
+                return "Moira";
             }
             if (A == 24)
             {
@@ -148,6 +150,14 @@ namespace overwatch_random_hero_selector_2._0
             if (A == 26)
             {
                 return "Brigitte";
+            }
+            if (A == 27)
+            {
+                return "Wrecking Ball";
+            }
+            if (A == 28)
+            {
+                return "Ashe";
             }
          
             // if all fails no hero string will return
